@@ -10,7 +10,7 @@ React Nativeのスキルアップのため、動画学習サービス[Udemy](htt
 - タスクの作成、編集、削除
 
 ## 技術選定
-### React Native
+### React Native（Expo）
 スキル研鑽が目的のため採用
 
 ### Firebase
